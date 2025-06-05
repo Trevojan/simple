@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\bin\Debug\net9.0\Core.exe
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\bin\Debug\net9.0\Core.dll
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.dll
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\aulas\intensivao_csharpe\Core\obj\Debug\net9.0\ref\Core.dll
